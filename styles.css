@@ -1,0 +1,45 @@
+#title{
+color: darkblue;
+}
+.subtitle{
+color: red;
+}
+.post_title{
+color: yellowgreen;
+font-size: 16px;
+font-style: italic;
+text-transform: uppercase;
+margin: 0, 0, 15px, 0;
+}
+body{
+    background: #fcfcfc;
+    max-width: 900px;
+}
+.post{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;   
+    text-transform: capitalize;
+    color: #505050;
+    background: white;
+    padding: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    margin: 0, 0, 0, 15px;
+}
+.imagem{
+    border-radius: 5px;
+    width: 100%;
+}
+a:link{
+text-decoration: none;
+color: aliceblue;
+}
+a:hover{
+    color: darkslateblue;
+}
+.context_list{
+    list-style-type: none;
+    padding: 0, 0, 0, 15px;
+    }
